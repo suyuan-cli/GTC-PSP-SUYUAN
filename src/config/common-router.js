@@ -1,0 +1,5 @@
+const commonRouterList = [
+
+];
+
+export { commonRouterList };

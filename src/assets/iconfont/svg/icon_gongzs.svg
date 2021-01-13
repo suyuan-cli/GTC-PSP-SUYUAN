@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>编组 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="公证办理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="公证书详情" transform="translate(-170.000000, -191.000000)">
+            <g id="证书总信息" transform="translate(120.000000, 176.000000)">
+                <g id="编组-6" transform="translate(50.000000, 15.000000)">
+                    <circle id="椭圆形" stroke="#C7C7C7" stroke-width="2" cx="35" cy="35" r="34"></circle>
+                    <circle id="椭圆形" stroke="#C7C7C7" stroke-width="2" cx="35" cy="35" r="27"></circle>
+                    <path d="M3.35476418,37.668586 L50.3093523,7.17843 C52.1622027,5.97563261 54.6393575,6.5021681 55.8427988,8.35460035 L67.8213177,26.7983836 C69.024823,28.6509144 68.4983465,31.1282494 66.6456519,32.3315024 C66.6455678,32.331557 66.6454837,32.3316116 66.6452358,32.331414 L19.6906477,62.82157 C17.8377973,64.0243674 15.3606425,63.4978319 14.1572012,61.6453996 L2.17868228,43.2016164 C0.975177017,41.3490856 1.50165347,38.8717506 3.35434809,37.6684976 C3.35443218,37.668443 3.35451627,37.6683884 3.35476418,37.668586 Z" id="矩形" fill="#D8D8D8"></path>
+                    <text id="已失效" opacity="0.659999967" transform="translate(35.000000, 35.000000) rotate(-33.000000) translate(-35.000000, -35.000000) " font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                        <tspan x="14" y="40">已失效</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

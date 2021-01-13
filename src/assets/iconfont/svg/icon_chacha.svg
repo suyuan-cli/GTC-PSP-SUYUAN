@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>叉</title>
+    <desc>Created with Sketch.</desc>
+    <g id="公证办理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1182.000000, -654.000000)" fill="#007BFF" fill-rule="nonzero" id="下部分">
+            <g transform="translate(119.000000, 265.000000)">
+                <g id="指上效果" transform="translate(1049.000000, 317.000000)">
+                    <g id="叉" transform="translate(12.000000, 70.000000)">
+                        <rect id="矩形" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M10.346,11.102 L7,7.756 L3.661,11.095 C3.486,11.27 3.269,11.193 3.038,10.962 C2.807,10.731 2.723,10.514 2.905,10.339 L6.244,7 L2.898,3.654 C2.695,3.444 2.814,3.241 3.017,3.031 C3.248,2.8 3.437,2.681 3.654,2.891 L7,6.244 L10.346,2.905 C10.542,2.709 10.738,2.807 10.99,3.059 C11.2,3.269 11.312,3.451 11.102,3.661 L7.756,7 L11.095,10.339 C11.305,10.549 11.214,10.731 10.983,10.969 C10.752,11.207 10.521,11.277 10.346,11.102 Z" id="路径"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

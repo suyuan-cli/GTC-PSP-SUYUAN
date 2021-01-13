@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="230px" height="75px" viewBox="0 0 230 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="30 0 222 0 222 67 0 67 -2.15660823e-14 25.8710937"></polygon>
+        <filter x="-2.7%" y="-9.0%" width="105.4%" height="117.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.792459239   0 0 0 0 0.792459239   0 0 0 0 0.792459239  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="溯源回声2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="溯源回声2.0.7" transform="translate(-1094.000000, -151.000000)">
+            <g id="基本信息" transform="translate(120.000000, 134.000000)">
+                <g id="编组-2" transform="translate(978.000000, 21.000000)">
+                    <g id="矩形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <path stroke="#EDEDED" stroke-width="1" d="M221.5,0.5 L30.1858167,0.5 L0.5,26.1001515 L0.5,66.5 L221.5,66.5 L221.5,0.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>减</title>
+    <desc>Created with Sketch.</desc>
+    <g id="风险引擎" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="风险引擎4" transform="translate(-1245.000000, -431.000000)" fill-rule="nonzero">
+            <g id="减" transform="translate(1245.000000, 431.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8.05,15.425 C3.875,15.425 0.45,12.025 0.45,7.825 C0.475,3.65 3.875,0.25 8.05,0.25 C12.225,0.25 15.65,3.65 15.65,7.85 C15.65,12.025 12.25,15.425 8.05,15.425 Z M8.05,1.225 C4.425,1.225 1.45,4.2 1.45,7.85 C1.45,11.5 4.425,14.45 8.05,14.45 C11.675,14.45 14.65,11.475 14.65,7.85 C14.675,4.2 11.7,1.225 8.05,1.225 Z" id="形状" fill="#A1A1A1"></path>
+                <path d="M11.1732079,8.525 L5.17679211,8.525 C4.90080645,8.525 4.675,8.3 4.675,8.025 C4.675,7.75 4.90080645,7.525 5.17679211,7.525 L11.1732079,7.525 C11.4491935,7.525 11.675,7.75 11.675,8.025 C11.675,8.3 11.4491935,8.525 11.1732079,8.525 L11.1732079,8.525 Z" id="路径" fill="#A1A1A1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

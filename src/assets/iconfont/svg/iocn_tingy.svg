@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>申请</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28.3794266,30.4860566 L11.1098778,30.4860566 C8.74905933,30.5269118 6.80866058,28.3820174 6.77272727,25.6978352 L6.77272727,10.5242393 C6.80506725,7.84005712 8.74187266,5.69516271 11.1026911,5.72784681 L30.8901218,5.72784681 C33.2509402,5.68699168 35.191339,7.8318861 35.2272723,10.5160683 L35.2272723,25.6937497 C35.1949323,28.3779318 33.2545336,30.5228263 30.8937151,30.4860566 L28.3794266,30.4860566 Z" id="path-1"></path>
+        <filter x="-24.6%" y="-20.2%" width="149.2%" height="156.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.374763116   0 0 0 0 0.78331635  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M29.5454545,19.0909091 C34.2900826,19.0909091 38.1363636,22.9371901 38.1363636,27.6818182 C38.1363636,32.4264463 34.2900826,36.2727273 29.5454545,36.2727273 C24.8008265,36.2727273 20.9545455,32.4264463 20.9545455,27.6818182 C20.9545455,22.9371901 24.8008265,19.0909091 29.5454545,19.0909091 Z M33.8409091,27.6818182 L25.25,27.6818182 C24.9864096,27.6818182 24.7727273,27.8955005 24.7727273,28.1590909 C24.7727273,28.4226814 24.9864096,28.6363636 25.25,28.6363636 L25.25,28.6363636 L33.8409091,28.6363636 C34.1044995,28.6363636 34.3181818,28.4226814 34.3181818,28.1590909 C34.3181818,27.8955005 34.1044995,27.6818182 33.8409091,27.6818182 L33.8409091,27.6818182 Z" id="path-3"></path>
+        <filter x="-40.7%" y="-29.1%" width="181.5%" height="181.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.407843137   0 0 0 0 0.858823529  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="溯源标识管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="溯源标识管理（改）" transform="translate(-673.000000, -547.000000)">
+            <g id="快捷入口" transform="translate(120.000000, 485.000000)">
+                <g id="使用" transform="translate(538.000000, 62.000000)">
+                    <g id="申请" transform="translate(15.000000, 0.000000)">
+                        <rect id="矩形" fill="#007AFF" fill-rule="nonzero" x="0" y="0" width="42" height="42" rx="8"></rect>
+                        <g id="路径" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#E2F0FF" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M19.7791997,19.0909091 C17.3146353,20.5995542 15.1026717,22.4761616 13.2252335,24.6471388 L10.6719175,22.6902488 L9.54545455,23.5800483 L13.9557276,27.9755245 C15.4201294,24.8578808 17.488725,22.0479874 20.0454545,19.7030644 L19.7723726,19.0909091 L19.7791997,19.0909091 Z" id="路径" fill="#007AFF" fill-rule="nonzero"></path>
+                        <path d="M10.4768299,10.5 L21.0231701,10.5 C21.538399,10.5 21.9545455,10.9432656 21.9545455,11.4920706 C21.9545455,12.0408756 21.538399,12.4841412 21.0231701,12.4841412 L10.4768299,12.4841412 C9.961601,12.4841412 9.54545455,12.0408756 9.54545455,11.4920706 C9.54941785,10.9432656 9.9655643,10.5 10.4768299,10.5 L10.4768299,10.5 Z M10.4768299,16.1522225 L18.5421445,16.1522225 C19.0573735,16.1522225 19.4735199,16.5954881 19.4735199,17.1442931 C19.4735199,17.6930981 19.0573735,18.1363636 18.5421445,18.1363636 L10.4768299,18.1363636 C9.961601,18.1363636 9.54545455,17.6930981 9.54545455,17.1442931 C9.54941785,16.5997096 9.9655643,16.1522225 10.4768299,16.1522225 Z" id="形状" fill="#007AFF" fill-rule="nonzero"></path>
+                        <g id="形状结合">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

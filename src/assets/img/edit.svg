@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>编辑</title>
+    <desc>Created with Sketch.</desc>
+    <g id="风险引擎" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="风险引擎4" transform="translate(-1220.000000, -431.000000)" fill-rule="nonzero">
+            <g id="编辑" transform="translate(1220.000000, 431.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8.05,15.425 C3.875,15.425 0.45,12.025 0.45,7.825 C0.475,3.65 3.875,0.25 8.05,0.25 C12.225,0.25 15.65,3.65 15.65,7.85 C15.65,12.025 12.25,15.425 8.05,15.425 Z M8.05,1.225 C4.425,1.225 1.45,4.2 1.45,7.85 C1.45,11.5 4.425,14.45 8.05,14.45 C11.675,14.45 14.65,11.475 14.65,7.85 C14.675,4.2 11.7,1.225 8.05,1.225 Z" id="形状" fill="#007AFF"></path>
+                <path d="M5.67049223,8.2186546 C5.39450657,8.2186546 3.10170588,7.52690705 3.10170588,7.25190705 C3.10170588,6.97690705 5.05020633,5.89956533 5.326192,5.89956533 L11.033179,5.71167104 C11.3091647,5.71167104 11.3564663,7.83713458 11.0804806,7.83713458 L5.67049223,8.2186546 Z" id="路径" fill="#007AFF" transform="translate(7.183519, 6.965163) rotate(-45.000000) translate(-7.183519, -6.965163) "></path>
+                <polygon id="直线-3" fill="#007AFF" points="10 10 10 11 4 11 4 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

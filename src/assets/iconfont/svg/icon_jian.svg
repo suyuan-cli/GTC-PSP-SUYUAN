@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>减</title>
+    <desc>Created with Sketch.</desc>
+    <g id="标识管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="标识使用新增" transform="translate(-1234.000000, -559.000000)" fill-rule="nonzero">
+            <g id="溯源标识使用" transform="translate(156.000000, 200.000000)">
+                <g id="编组-5" transform="translate(0.000000, 147.000000)">
+                    <g id="第二条" transform="translate(0.000000, 195.000000)">
+                        <g id="减" transform="translate(1078.000000, 17.000000)">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M8.05,15.425 C3.875,15.425 0.45,12.025 0.45,7.825 C0.475,3.65 3.875,0.25 8.05,0.25 C12.225,0.25 15.65,3.65 15.65,7.85 C15.65,12.025 12.25,15.425 8.05,15.425 Z M8.05,1.225 C4.425,1.225 1.45,4.2 1.45,7.85 C1.45,11.5 4.425,14.45 8.05,14.45 C11.675,14.45 14.65,11.475 14.65,7.85 C14.675,4.2 11.7,1.225 8.05,1.225 Z" id="形状" fill="#A1A1A1"></path>
+                            <path d="M11.15,8.525 L5.175,8.525 C4.9,8.525 4.675,8.3 4.675,8.025 C4.675,7.75 4.9,7.525 5.175,7.525 L11.15,7.525 C11.425,7.525 11.65,7.75 11.65,8.025 C11.65,8.3 11.425,8.525 11.15,8.525 L11.15,8.525 Z" id="路径" fill="#A1A1A1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="48px" viewBox="0 0 90 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>bj</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="48" rx="24"></rect>
+    </defs>
+    <g id="二级首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1350.000000, -264.000000)" id="客服">
+            <g transform="translate(1350.000000, 264.000000)">
+                <g id="bj">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <rect stroke="#EDEDED" x="0.5" y="0.5" width="119" height="47" rx="23.5"></rect>
+                    <circle id="椭圆形" fill="#E5F1FF" mask="url(#mask-2)" cx="36" cy="7" r="15"></circle>
+                    <circle id="椭圆形" fill="#F3F8FF" mask="url(#mask-2)" cx="67" cy="23" r="6"></circle>
+                    <circle id="椭圆形" fill="#E5F1FF" mask="url(#mask-2)" cx="14" cy="33" r="6"></circle>
+                    <circle id="椭圆形" fill="#F3F8FF" mask="url(#mask-2)" cx="39" cy="48" r="11"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

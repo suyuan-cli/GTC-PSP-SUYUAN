@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>申请</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28.2615447,30.8744232 L11.267867,30.8744232 C8.94476128,30.9154692 7.0353593,28.7605567 7,26.0638377 L7,10.8193714 C7.03182337,8.12265245 8.93768942,5.96774001 11.2607952,6.00057677 L30.732133,6.00057677 C33.0552387,5.95953082 34.9646407,8.11444326 35,10.8111623 L35,26.0597331 C34.9681766,28.7564521 33.0587746,30.9113646 30.7356689,30.8744232 L28.2615447,30.8744232 Z" id="path-1"></path>
+        <filter x="-25.0%" y="-20.1%" width="150.0%" height="156.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.374763116   0 0 0 0 0.78331635  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-40.0%" y="-44.4%" width="180.0%" height="188.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.432657538   0 0 0 0 0.904325181  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="溯源标识管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="溯源标识管理（改）" transform="translate(-236.000000, -547.000000)" fill-rule="nonzero">
+            <g id="快捷入口" transform="translate(120.000000, 485.000000)">
+                <g id="申请" transform="translate(100.000000, 62.000000)">
+                    <g transform="translate(16.000000, 0.000000)">
+                        <rect id="矩形" fill="#007AFF" x="0" y="0" width="42" height="42" rx="8"></rect>
+                        <g id="路径">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#E2F0FF" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M19.7210663,19 C17.1391417,20.528238 14.8218466,22.4292169 12.8550065,24.6283886 L10.180104,22.6460843 L9,23.5474398 L13.6202861,28 C15.1544213,24.8418675 17.3215215,21.9954819 20,19.6201054 L19.7139142,19 L19.7210663,19 Z" id="路径" fill="#007AFF"></path>
+                        <path d="M10.9006707,10 L21.0993293,10 C21.5975727,10 22,10.4643735 22,11.039312 C22,11.6142506 21.5975727,12.0786241 21.0993293,12.0786241 L10.9006707,12.0786241 C10.4024273,12.0786241 10,11.6142506 10,11.039312 C10.0038326,10.4643735 10.40626,10 10.9006707,10 L10.9006707,10 Z M10.9006707,15.9213759 L18.7000958,15.9213759 C19.1983392,15.9213759 19.6007665,16.3857494 19.6007665,16.960688 C19.6007665,17.5356265 19.1983392,18 18.7000958,18 L10.9006707,18 C10.4024273,18 10,17.5356265 10,16.960688 C10.0038326,16.390172 10.40626,15.9213759 10.9006707,15.9213759 Z" id="形状" fill="#007AFF"></path>
+                        <g id="笔" filter="url(#filter-3)" transform="translate(18.000000, 18.000000)">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0.952380952" y="0" width="15.2380952" height="15.1578947"></rect>
+                            <path d="M17.4196666,7.94693339 L18.8622679,6.69130081 C19.6525625,6.00343252 19.6525625,4.86790393 18.8622679,4.18003564 L14.7351737,0.587834601 C13.9448791,-0.100033683 12.6402657,-0.100033683 11.8499711,0.587834601 L10.4073698,1.84346718 L16.780599,8.37366365 L17.4196666,7.94693339 Z M11.7442844,3.87093825 L14.9442909,7.04716523 L16.6941071,8.78397849 L9.87461768,15.5527918 C8.25663688,15.8977752 7.90907063,15.1126405 8.1248014,13.8159785 C6.48285051,13.5899549 5.26037613,12.8643 4.9727351,11.008527 L9.57499161,6.58322197 L9.1555151,6.16686262 L4.43340816,10.7111274 C3.24688891,10.8062953 2.995203,10.0449525 3.17497865,8.9029383 L9.99446811,2.134125 L11.7442844,3.87093825 L11.7442844,3.87093825 Z M1.61474206,13.384125 L0.86077381,16.6667337 L2.08460634,17.884125 L5.38458333,17.134125 L1.61474206,13.384125 Z" id="形状" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

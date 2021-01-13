@@ -1,0 +1,376 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+html,
+body,
+#app,
+.wrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  min-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, 'microsoft yahei',
+    arial, STHeiTi, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.w1200 {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.w675 {
+  width: 675px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.w1160 {
+  width: 1160px;
+  margin: 0 auto;
+}
+
+ul,
+li,
+ol {
+  list-style: none;
+}
+
+.content-box {
+  position: absolute;
+  left: 250px;
+  right: 0;
+  top: 70px;
+  bottom: 0;
+  /* padding-bottom: 30px; */
+  -webkit-transition: left 0.3s ease-in-out;
+  transition: left 0.3s ease-in-out;
+  background: #f5f5f5;
+}
+
+.content {
+  width: auto;
+  height: 910px;
+  box-sizing: border-box;
+  margin-top: 21px;
+  background: #f5f5f5;
+}
+
+.content-collapse {
+  left: 65px;
+}
+
+.container {
+  /* padding: 30px; */
+  background: #f5f5f5;
+  /* border: 1px solid #ddd; */
+  /* border-radius: 5px; */
+  box-sizing: border-box;
+  height: 776px;
+}
+
+.container-top {
+  min-height: 120px;
+  background: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(237, 237, 237, 1);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.crumbs {
+  box-sizing: border-box;
+  height: 40px;
+  border-bottom: 1px solid #f6f7f9;
+  position: relative;
+}
+
+.crumbs .el-breadcrumb {
+  box-sizing: border-box;
+  width: 100%;
+  height: 17px;
+  font-size: 12px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  color: rgba(125, 125, 125, 1);
+  line-height: 17px;
+  font-weight: 400;
+  position: absolute;
+  top: 11px;
+  left: 18px;
+}
+
+.crumbs .el-breadcrumb__separator {
+  margin: 0 5px;
+  font-weight: 400;
+}
+
+.pagination {
+  margin: 20px 0;
+  text-align: right;
+}
+
+.plugins-tips {
+  padding: 20px 10px;
+  margin-bottom: 20px;
+}
+
+.el-button+.el-tooltip {
+  margin-left: 10px;
+}
+
+.el-table tr:hover {
+  background: #f6faff;
+}
+
+.mgb20 {
+  margin-bottom: 20px;
+}
+
+.move-enter-active,
+.move-leave-active {
+  transition: opacity 0.5s;
+}
+
+.move-enter,
+.move-leave {
+  opacity: 0;
+}
+
+/*BaseForm*/
+
+.form-box {
+  width: 600px;
+}
+
+.form-box .line {
+  text-align: center;
+}
+
+.el-time-panel__content::after,
+.el-time-panel__content::before {
+  margin-top: -7px;
+}
+
+.el-time-spinner__wrapper .el-scrollbar__wrap:not(.el-scrollbar__wrap--hidden-default) {
+  padding-bottom: 0;
+}
+
+/*Upload*/
+
+.pure-button {
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.g-core-image-corp-container .info-aside {
+  height: 45px;
+}
+
+.el-upload--text {
+  /*background-color: #fff;*/
+  /*border: 1px dashed #d9d9d9;*/
+  /*border-radius: 6px;*/
+  /*box-sizing: border-box;*/
+  /*width: 85px;*/
+  /*height: 18px;*/
+  /*border: none;*/
+  /*text-align: center;*/
+  /*cursor: pointer;*/
+  /*overflow: hidden;*/
+}
+
+.el-upload--text .el-icon-upload {
+  font-size: 67px;
+  color: #97a8be;
+  margin: 40px 0 16px;
+  line-height: 50px;
+}
+
+.el-upload--text {
+  color: #97a8be;
+  font-size: 14px;
+  text-align: center;
+}
+
+.el-upload--text em {
+  font-style: normal;
+}
+
+/*VueEditor*/
+
+.ql-container {
+  min-height: 400px;
+}
+
+.ql-snow .ql-tooltip {
+  transform: translateX(117.5px) translateY(10px) !important;
+}
+
+.editor-btn {
+  margin-top: 20px;
+}
+
+.el-button.el-is-disabled {
+  color: #bfcbd9;
+  cursor: not-allowed;
+  background-image: none;
+  background-color: #eef1f6;
+  border-color: #d1dbe5;
+}
+
+/*markdown*/
+
+.v-note-wrapper .v-note-panel {
+  min-height: 500px;
+}
+
+/* topbar */
+.el-menu--horizontal>.el-submenu .el-submenu__title {
+  height: 43px;
+  line-height: 43px;
+  border-bottom: 2px solid transparent;
+  color: #909399;
+}
+
+/* 滚动条 */
+.page-component__scroll {
+  height: 100%;
+}
+
+.page-component__scroll .el-scrollbar__wrap {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* .page-component__scroll .el-scrollbar__wrap .el-scrollbar__thumb {
+    background-color: rgb(59, 50, 50);
+} */
+
+/* dialogform */
+
+.el-dialog__header .el-dialog__title {
+  display: block;
+  width: 96px;
+  height: 22px;
+  font-size: 16px;
+  font-family: PingFangSC-Medium, PingFang SC;
+  font-weight: 500;
+  color: rgba(51, 51, 51, 1);
+  line-height: 22px;
+  margin: 0 auto;
+}
+
+.el-dialog__body {
+  padding: 8px 20px;
+}
+
+/* 分页背景 */
+
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+  background: #007aff;
+}
+
+/* 时间输入框 */
+.el-range-editor--mini.el-input__inner {
+  width: 300px;
+}
+
+/* 页头警告框 */
+
+.container-warn{
+  margin-bottom: 10px;
+  background: rgba(238, 244, 251, 1);
+  min-height: 40px;
+  font-size:12px;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:18px;
+  border:1px solid rgba(203,228,255,1);;
+}
+.container-warn .warn{
+  padding: 12px 0;
+}
+.container-warn .warn .el-icon-warning{
+  padding: 0 15px;
+  color:rgba(70, 124, 253, 1);
+  font-size: 16px;
+}
+.container-warn .warn .focus{
+  color:rgba(0, 122, 255, 1);
+  cursor: pointer;
+}
+
+/*列表样式*/
+.el-table__header-wrapper table th
+,.el-table__fixed-header-wrapper table th {
+  background: #efefef;
+  font-size: 14px;
+  color: #333;
+}
+.el-table__body tbody .cell{
+  font-size: 12px;
+  color: #666;
+}
+
+
+/* 单行省略号 */
+.single-line-ellipsis{
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+
+/*表格样式*/
+
+ .el-table--scrollable-x .el-table__body-wrapper {
+  overflow: hidden;
+  position: relative;
+}
+.ps__rail-x {
+  opacity: 1 !important;
+  z-index: 99;
+}
+
+ .ps__rail-x .ps__thumb-x {
+  background-color: rgba(144, 147, 153, 0.3);
+}
+.ps__rail-x .ps__thumb-x:hover {
+  background-color: rgba(144, 147, 153, 0.6);
+}
+
+.el-table__fixed {
+  height: 100% !important;
+}
+ .el-table__fixed-right {
+  height: 100% !important;
+}
+ .btn-prev,
+ .btn-next,
+ .el-pager li {
+  background: #ffffff;
+  border: 1px solid #ededed;
+  border-radius: 4px;
+}
+ .el-pager .more {
+  border: 0;
+}
+ .el-table__header .cell {
+  font-weight: normal;
+}
+/* .cell {
+  white-space: pre !important;
+} */

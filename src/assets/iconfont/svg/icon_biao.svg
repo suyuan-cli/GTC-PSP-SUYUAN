@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>标识</title>
+    <desc>Created with Sketch.</desc>
+    <g id="商品溯源数据准备" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-494.000000, -566.000000)" id="下部分">
+            <g transform="translate(119.000000, 265.000000)">
+                <g id="标识" transform="translate(375.000000, 301.000000)">
+                    <path d="M7.90125,0.85125 C7.65130196,0.716300049 7.35019804,0.716300049 7.10025,0.85125 C6.0585,1.40625 3.21525,2.83275 1.284,2.901 C0.902024705,2.92162805 0.602221132,3.23622456 0.6,3.61875 L0.6,11.9535 C0.6,11.9535 0.624,14.4 3.3435,16.263 C3.345,16.263 4.29075,16.998 6.90825,17.90025 C7.29075,18.033 7.71075,18.033 8.09325,17.90025 C10.71075,16.99875 11.6565,16.263 11.6565,16.263 C14.3775,14.4 14.4,11.9535 14.4,11.9535 L14.4,3.61875 C14.3985718,3.23647196 14.099222,2.92166115 13.7175,2.901 C11.78775,2.83275 8.943,1.4085 7.90125,0.85125 Z" id="路径" fill="#8F74DC" fill-rule="nonzero"></path>
+                    <text id="标" font-family="PingFang-SC-Heavy, PingFang SC" font-size="10" font-weight="600" fill="#FFFFFF">
+                        <tspan x="2" y="13">标</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
